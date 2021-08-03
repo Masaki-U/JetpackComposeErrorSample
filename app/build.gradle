@@ -38,7 +38,10 @@ android {
     }
     composeOptions {
         kotlinCompilerExtensionVersion compose_version
-        kotlinCompilerVersion '1.5.10'
+        /**
+         * change because of https://issuetracker.google.com/issues/195342732#comment2
+         */
+//        kotlinCompilerVersion '1.5.10'
     }
     packagingOptions {
         resources {

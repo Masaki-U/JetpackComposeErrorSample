@@ -1,4 +1,4 @@
-package jp.arsaga
+package jp.arsaga.myapplication
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package jp.arsaga.ui.theme
+package jp.arsaga.myapplication.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

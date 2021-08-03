@@ -7,7 +7,7 @@ android {
     compileSdk 30
 
     defaultConfig {
-        applicationId "jp.arsaga"
+        applicationId "jp.arsaga.myapplication"
         minSdk 23
         targetSdk 30
         versionCode 1

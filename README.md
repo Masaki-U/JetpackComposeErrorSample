@@ -4,6 +4,10 @@ The Project for Issue Tracker
 
 https://issuetracker.google.com/issues/195273509
 
+MultiPost
+
+https://stackoverflow.com/questions/68625452/nosuchmethoderror-no-static-method-setcontent-because-of-gradle-buildsrc
+
 ```
 2021-08-03 01:01:53.104 4738-4738/jp.arsaga E/AndroidRuntime: FATAL EXCEPTION: main
     Process: jp.arsaga, PID: 4738
